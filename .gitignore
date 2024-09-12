@@ -1,0 +1,2 @@
+node-modules \nbuild \ndist \n.next \n.env
+node_modules
